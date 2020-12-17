@@ -1,0 +1,178 @@
+
+
+
+body{
+    
+    
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    
+    background: #C9DCE2;
+
+    
+
+    
+}
+
+.sobremim{
+    margin-top: 19rem;
+    width:auto;
+    background-color: black;
+    height:auto;
+}
+
+
+
+
+
+.home{
+    color: #ffffff;
+    position: absolute;
+    width: 69px;
+    height: 41px;
+    left: 898px;
+    top: 31px;
+}
+.prj {
+    color: #ffffff;
+    text-decoration: none;
+    position: absolute;
+    width: 91px;
+    height: 41px;
+    left: 1198px;
+    top: 33px;
+}
+.sob {
+    
+    color: #ffffff;
+    text-decoration: none;
+    position: absolute;
+    width: 85px;
+    height: 41px;
+    left: 998px;
+    top: 31px;
+    
+}
+
+.cont{
+
+    color: #ffffff;
+    text-decoration: none;
+    position: absolute;
+    width: 82px;
+    height: 41px;
+    left: 1098px;
+    top: 31px;
+
+    
+}
+ul {
+    text-decoration: none;
+}
+
+li {
+   font-family: 'Uchein' !important;
+   font:'#020202' !important;
+  
+}
+li:hover{
+    background-color: cornsilk;
+}
+.welcome {
+  
+position: absolute;
+width: 730px;
+height: 110px;
+left: 377px;
+top: 139px;
+
+font-family: 'Uchen' !important;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 93px;
+border-style: solid;
+
+}
+
+a{
+
+
+color: #020202 !important;
+
+}
+img {
+    position: absolute;
+width: 520px;
+height: 430px;
+left: 106px;
+top: 211px;
+}
+.page2 {
+    
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0px;
+top: 641px;
+
+background: #f8f8f8;
+
+}
+.nav-colored { background-color:#000 !important; }
+.nav-transparent { background-color:transparent !important;}
+
+h2 {
+    
+position: absolute;
+width: 141px;
+height: 78px;
+left: 612px;
+top: 120px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 59px;
+
+color: #000000;
+}
+.retangulo {
+
+    position: absolute;
+width: 1176px;
+height: 399px;
+left: 98px;
+top: 200px;
+
+background: #000000;
+border-radius: 53px;
+}
+.png2 {
+    position: absolute;
+width: 406px;
+height: 287px;
+left: 92px;
+top: 62px;
+}
+p {
+position: absolute;
+width: 502px;
+height: 337.13px;
+left: 732px;
+top: 62px;
+
+font-family: 'Uchen';
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 45px;
+text-align: right;
+padding-right:120px;
+color: whitesmoke;
+
+}
